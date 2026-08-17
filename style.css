@@ -13,3 +13,6 @@ Text Domain: planet4-child-theme
 */
 
 
+footer {
+  display: none;
+}
