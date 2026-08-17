@@ -1,6 +1,6 @@
-# Greenpeace Planet 4 Child Theme
+# Greenpeace Planet 4 Techvision Theme
 
-Child theme for the Planet 4 Wordpress project.
+Planet 4 child theme for the Techvision website.
 The related master theme’s code lives at: 
 
 https://github.com/greenpeace/planet4-master-theme.

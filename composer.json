@@ -1,6 +1,6 @@
 {
-	"name": "greenpeace/planet4-child-theme",
-	"description": "Exemple child theme for the Planet 4 Wordpress project",
+	"name": "greenpeace/planet4-child-theme-techvision",
+	"description": "P4 child theme for the Planet 4 Techvision website",
 	"type":"wordpress-theme",
 	"minimum-stability" : "stable",
 	"authors": [
@@ -18,9 +18,7 @@
 		}
 	],
 	"support": {
-		"issues": "https://github.com/greenpeace/planet4-child-theme/issues",
-		"wiki": "https://github.com/greenpeace/planet4-child-theme/wiki",
-		"source": "https://github.com/greenpeace/planet4-child-theme"
+		"source": "https://github.com/greenpeace/planet4-child-theme-techvision"
 	},
 	"extra": {
 		"installer-paths": {
